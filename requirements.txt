@@ -1,0 +1,6 @@
+# AI helped generate this code
+
+chromadb
+sentence-transformers
+streamlit
+pandas
